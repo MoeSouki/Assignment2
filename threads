@@ -3,9 +3,9 @@
 #include<pthread.h>
 #include<time.h>
 
-#define M 500
-#define N 500
-#define P 500
+#define M 1000
+#define N 1000
+#define P 1000
 
 int A[M][N], B[N][P], C[M][P];
 
